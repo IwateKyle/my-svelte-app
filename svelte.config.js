@@ -17,9 +17,9 @@ const config = {
 				precompress: false
 			}
 		),
-		prerender: {
-			default: true
-		}
+		// prerender: {
+		// 	default: true
+		// }
 	}
 };
 
